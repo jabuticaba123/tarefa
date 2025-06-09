@@ -2,7 +2,7 @@
 
 :root {
     --branco: white;
-    --cor-de-fundo: #00162E;
+    --cor-de-fundo: #461d56;
     --fundo-senha: #572756;
     --fundo-texto: #8f4c91;
     --borda: #e880e4;
@@ -22,7 +22,7 @@ body {
 
 .titulo-principal {
     font-family: var(--roboto-mono);
-    font-size: 34px;
+    font-size: 40px;
 }
 
 .titulo-secundario {
