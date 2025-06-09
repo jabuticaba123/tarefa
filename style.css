@@ -3,9 +3,9 @@
 :root {
     --branco: white;
     --cor-de-fundo: #00162E;
-    --fundo-senha: #00244D;
-    --fundo-texto: #001E40;
-    --borda: #0075FF;
+    --fundo-senha: #572756;
+    --fundo-texto: #8f4c91;
+    --borda: #e880e4;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -22,7 +22,7 @@ body {
 
 .titulo-principal {
     font-family: var(--roboto-mono);
-    font-size: 32px;
+    font-size: 34px;
 }
 
 .titulo-secundario {
@@ -132,16 +132,16 @@ label {
 
 .fraca {
     width: 25%;
-    background-color: #E71B32;
+    background-color: #7b3b42;
 }
 
 .media {
-    background-color: #FAF408;
+    background-color: #99dfcd;
     width: 50%;
 }
 
 .forte {
-    background-color: #00FF85;
+    background-color: #2d4037;
     width: 100%;
 }
 
