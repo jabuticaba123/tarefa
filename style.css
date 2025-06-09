@@ -21,7 +21,7 @@ body {
 }
 
 .titulo-principal {
-    font-family: Georgia (--roboto-mono);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif (--roboto-mono);
     font-size: 40px;
 }
 
